@@ -1,6 +1,6 @@
 ## Description
 
-This is a playground project with Phyton.
+This is a playground project with Python.
 
 ### Requirements
 
