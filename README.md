@@ -4,7 +4,7 @@ This is a playground project with Python.
 
 ### Requirements
 
-* Phython
+* Python
 * pywhatkit
 
 ### Customization Guide
